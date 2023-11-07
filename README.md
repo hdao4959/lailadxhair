@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Đào Xuân Hải
 - 👀 I’m interested in FIFA
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning at FPT Polytechnic 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My facebook: www.facebook.com/lailadxhair.
 
 <!---
 hdao4959/hdao4959 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
